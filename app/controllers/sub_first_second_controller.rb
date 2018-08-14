@@ -1,0 +1,2 @@
+class SubFirstSecondController < ApplicationController
+end
