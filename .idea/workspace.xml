@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbd14ea2-4902-4cc9-a7de-79d1d3cd6e0d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/default/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/default/normalize.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/default/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/default/reset.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/commons/_kpu_footer.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/commons/_kpu_footer.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/commons/_kpu_header.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/commons/_kpu_header.html.erb" afterDir="false" />
-    </list>
+    <list default="true" id="cbd14ea2-4902-4cc9-a7de-79d1d3cd6e0d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -317,12 +312,12 @@
       <updated>1534129954469</updated>
       <workItem from="1534129958674" duration="5545000" />
       <workItem from="1534147483745" duration="244000" />
-      <workItem from="1534241021750" duration="1484000" />
+      <workItem from="1534241021750" duration="2042000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7273000" />
+    <option name="totallyTimeSpent" value="7831000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
